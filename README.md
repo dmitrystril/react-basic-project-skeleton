@@ -1,4 +1,4 @@
-## React TS frontend project skeleton
+## React TS frontend project template
 
 This is a template repo used to bootstrap my React + TS frontend SPA projects.
 
