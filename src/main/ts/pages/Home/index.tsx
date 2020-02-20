@@ -8,7 +8,7 @@ import { getQuote } from '../../redux/feature/quotes/quotesSlice';
 import QuoteType from '../../types/QuoteType';
 
 const Quote = styled.div`
-  margin-bottom: 20px;
+  padding: 15px 0;
 `;
 
 const Home: React.FC = () => {

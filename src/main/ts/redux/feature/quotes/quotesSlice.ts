@@ -36,7 +36,6 @@ export default quotesSlice.reducer;
 
 export const getQuote = () => {
   const PATH = `${Endpoint.QUOTE}`;
-
   const TYPES = extractActionTypes(quotesSlice.actions);
 
   return axiosGet(PATH, TYPES);
