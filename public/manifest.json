@@ -1,0 +1,9 @@
+{
+  "short_name": "React TS App",
+  "name": "React TS frontend project template",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
