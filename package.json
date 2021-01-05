@@ -19,7 +19,7 @@
   "homepage": "https://github.com/dmitrystril/react-ts-frontend-project-template#readme",
   "dependencies": {
     "@reduxjs/toolkit": "^1.2.5",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "qs": "^6.9.1",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
